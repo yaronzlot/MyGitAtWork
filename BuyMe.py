@@ -103,7 +103,6 @@ submit[2].click()
 # close driver
 time.sleep(5)
 driver.quit()
-print("The test is completed")
 
 
 
